@@ -1,0 +1,61 @@
+@media only screen and (max-width:1140px) {
+  .nav-list {
+    flex-direction: column;
+  }
+  .box{
+    flex-direction: column-reverse;
+  }
+  .navbar{
+      height:333px;
+      flex-direction: column;
+      transition: all 5.7s ease-out;
+     
+  }
+  .rightNav{
+    text-align: center;
+}
+#search{
+    width: 61%;
+}
+.logo img{
+    width: 46%;
+}
+.nav-list li{
+    padding: 15px 30px;
+}
+.line{
+    width: 33px;
+    background-color: white;
+    height: 4px;
+    margin: 5px 3px;
+}
+.burger{
+        position: absolute;
+        cursor: pointer;
+        right: 5%;
+        top: 15px;
+}
+.nav-h{
+height: 18vh;
+}
+.v-class
+{
+    display:none;
+}
+.section{
+    flex-direction: column-reverse;
+   
+}
+.thumbnail img{
+
+    width: 179px;
+}
+.form{
+    margin: auto 55px;
+}
+.background{
+    margin-top: 12px;
+}
+}
+  
+
